@@ -1,5 +1,5 @@
 header{
-    background-color: blue;
+    background-color: aqua;
     width:100%;
     text-align: center;
     color:white;
@@ -8,7 +8,10 @@ header{
     margin:0;
 }
 header h3{
+    padding:5px;
+    border:2px solid black;
     text-transform: uppercase;
+    background-color:blue;
     
 }
 header h3:hover{
